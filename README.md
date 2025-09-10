@@ -7,7 +7,7 @@ Currently, the repository includes:
 
 - `ps_back.py` — Solver for generating **initial data for a massive complex scalar field** using a pseudospectral Newton iteration scheme.  
 - `ps_poisson.py` — A simpler **Poisson equation solver** implemented with the same pseudospectral framework, useful for testing and benchmarking.  
-- 'test.pdf' -A test pdf file containing sufficient theory regarding the approaches used
+- `test.pdf` — A test pdf file containing sufficient theory regarding the approaches used
 ---
 
 ## 🔑 Features
