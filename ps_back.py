@@ -1,5 +1,5 @@
 import numpy as np
-N=105
+N=500
 R = 500.0
 kappa = 0.1
 amp = 0.001
