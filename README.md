@@ -6,7 +6,7 @@ The method uses **Chebyshev polynomials** on Gauss–Lobatto collocation points 
 Currently, the repository includes:
 
 - `ps_back.py` — Solver for generating **initial data for a massive complex scalar field** using a pseudospectral Newton iteration scheme.  
-- `ps_poisson.py` — A simpler **Poisson equation solver** implemented with the same pseudospectral framework, useful for testing and benchmarking.  
+- `ps_poisson.py` — A simpler **Poisson equation solver** implemented with the same pseudospectral framework, useful for testing and benchmarking(Done of r^2 function).  
 - `test.pdf` — A test pdf file containing sufficient theory regarding the approaches used
 ---
 
